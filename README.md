@@ -1,4 +1,4 @@
-# Hi, I’m Ogundipe Kehinde Gideon 👋
+# Hi, I’m Ogundipe Kehinde Gideon 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence;Python+%7C+SQL;Power+BI+%7C+Tableau+%7C+Excel" alt="Typing SVG" />
@@ -44,27 +44,27 @@ A polished dashboard focused on customer trends, performance, and business insig
 
 - Repo: [Kennedy-og/E-Commerce-Demo-Dashboard](https://github.com/Kennedy-og/E-Commerce-Demo-Dashboard)
 
-### 🏠 Airbnb Out Sales Dashboard
+###  Airbnb Out Sales Dashboard
 Sales-driven analysis and visual storytelling built around key performance patterns.
 
 - Repo: [Kennedy-og/Airbnb-Out-Sales-Dashboard](https://github.com/Kennedy-og/Airbnb-Out-Sales-Dashboard)
 
-### 👥 HR Data Analysis
+###  HR Data Analysis
 Workforce analytics exploring retention, performance, and organizational trends.
 
 - Repo: [Kennedy-og/HR-Data](https://github.com/Kennedy-og/HR-Data)
 
-### 🌍 Layoffs Project
+###  Layoffs Project
 A project analyzing global layoffs and identifying recurring patterns.
 
 - Repo: [Kennedy-og/Layoffs.project1](https://github.com/Kennedy-og/Layoffs.project1)
 
-### 🧾 OFM Operations Dashboard
+###  OFM Operations Dashboard
 Operations dashboard focused on monitoring business health and performance indicators.
 
 - Repo: [Kennedy-og/ofm-operations-dashboard](https://github.com/Kennedy-og/ofm-operations-dashboard)
 
-### 👟 OG Urban Kicks Dashboard
+###  OG Urban Kicks Dashboard
 Retail and sales analysis dashboard designed for decision support and performance tracking.
 
 - Repo: [Kennedy-og/og-urban-kicks-dashboard](https://github.com/Kennedy-og/og-urban-kicks-dashboard)
